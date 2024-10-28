@@ -6,8 +6,7 @@ import {
 import "./index.css";
 import themePalette from "./visual/theme.jsx";
 import routes from "./routes/router.jsx";
-
-import { ThemeProvider } from "@mui/material/styles";
+import {ThemeProvider} from "@mui/material/styles";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
     <React.StrictMode>

@@ -1,5 +1,5 @@
 {
-  "name": "rb-web-dev",
+  "name": "rb-web-dev-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -18,7 +18,8 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.27.0",
-    "styled-components": "^6.1.13"
+    "styled-components": "^6.1.13",
+    "vite-plugin-node": "^4.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",

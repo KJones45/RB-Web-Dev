@@ -1,10 +1,9 @@
 import {Box} from "@mui/material";
 
-export default function Root() {
+export default function Home() {
     return (
-        <Box sx={{
-            width: "window.innerWidth"}}>
-            <h1>Navigate through Test Answers</h1>
+        <Box paddingX={5}>
+            <h3>Navigate through Test Answers</h3>
             <li>
                 <a href={`/technical1`}>Technical Test 01 – Data Fetching & Manipulation</a>
             </li>

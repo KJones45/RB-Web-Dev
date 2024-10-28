@@ -1,0 +1,15 @@
+:root {
+  font-family: futura-pt, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: dark;
+  color: #FFFFFF;
+  background-color: #00162B;
+}
+
+body {
+  margin: 0 0 10px 0;
+  place-items: center;
+  min-width: 320px;
+  /*min-height: 100vh;*/
+}
